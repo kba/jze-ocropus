@@ -1,0 +1,11 @@
+{
+"author": "Jesper Zedlitz",
+"author-email": "jesper@zedlitz.de",
+"files": ["verlustliste_oesterreich-ungarn.pyrnn.gz"],
+"format": "pyrnn.gz",
+"license": "Apache 2.0",
+"modified": "2016-06-28T09:32:00Z",
+"name": "verlustliste_oesterreich-ungarn.pyrnn.gz",
+"summary": "This model can be used to recognize the WW1 casualty lists of Austria-Hungary (Verlustlisten :sterreich-Ungarn).",
+"url": "https://github.com/jze/ocropus-models"
+}
